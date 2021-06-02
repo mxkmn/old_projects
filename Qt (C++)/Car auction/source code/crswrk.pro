@@ -40,7 +40,7 @@ win32: {
     VERSION = 1.0.0
     QMAKE_TARGET_COMPANY = mxkmn
     QMAKE_TARGET_PRODUCT = Car auction
-    QMAKE_TARGET_DESCRIPTION = Course work (INRTU)
+    QMAKE_TARGET_DESCRIPTION = Course work
     QMAKE_TARGET_COPYRIGHT = Yarkov Max
     RC_ICONS += logo.ico
 }
